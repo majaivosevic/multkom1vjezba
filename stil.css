@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+ background-image: url("pozadina.png");
+  background-color: lightgrey;
+  color: black;
+  padding: 30px;
+width: 900px;
+}
+
+h1, h2{
+   color: #a21e34;
+   padding-left: 100px;
+   background-color: #d3dadc;
+   border-radius: 5px;
+
+
+ }
+#horor, #povijest {
+  color: black;
+  border-left-style: solid;
+  border-color: #fad871;
+  padding: 30px;
+width: 900px;}
